@@ -71,19 +71,25 @@ Figure 3. NOR gate Using CMOS Logic.
  Initially Schematic of the NOR gate cell was implemented and converted into a symbol so that it could be used directly as delay cell from the library.
  
  
- ![ha_sch](https://user-images.githubusercontent.com/100190726/155284404-ad60f01a-13b8-4640-8914-06020052f87e.JPG)
+ 
+ ![ss3](https://user-images.githubusercontent.com/100693635/156211611-8ec48aff-e217-480f-9882-9640d8ee7c0f.PNG)
 
  
  Fig. 4: NOR gate Cell Schematic
  
  
- ![ha_sym](https://user-images.githubusercontent.com/100190726/155284499-95dbccd7-0036-4988-9244-3bf942ebfa5e.JPG)
+ ![ss7](https://user-images.githubusercontent.com/100693635/156211669-56033f33-ddd8-45ba-9e18-b93eb390cc0e.PNG)
 
  Fig. 5: NOR gate Cell Symbol
  
  ### Parameters set for Voltage Source for Input A
- 
- ![A](https://user-images.githubusercontent.com/100190726/155505423-33d7dd09-e86e-4ed5-9063-c6e9071985af.JPG)
+ ![ss4](https://user-images.githubusercontent.com/100693635/156211630-b0fd5864-71b2-4863-86c3-9e0daa2eac82.PNG)
+
+
+
+
+
+
 
 
  
@@ -92,13 +98,13 @@ Figure 3. NOR gate Using CMOS Logic.
  ### Parameters set for Voltage Source for Input B
  
  
- ![B](https://user-images.githubusercontent.com/100190726/155505312-5892520a-c083-4d9a-a4ba-a13dd4aa468e.JPG)
+ ![ss5](https://user-images.githubusercontent.com/100693635/156211644-6b7fd639-fdb8-43d6-ab13-688526d6fcac.PNG)
 
  
 
  
  
- ![ha_test](https://user-images.githubusercontent.com/100190726/155284515-8187e068-cbd4-4fc6-bf4c-4d0ab1ffc863.JPG)
+ ![ss6](https://user-images.githubusercontent.com/100693635/156211664-eefa923b-d987-4dd6-b162-ffc7e5b18bd7.PNG)
 
  Fig. 6: NOR gate Test Circuit 
  
