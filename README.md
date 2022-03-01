@@ -23,26 +23,26 @@ complete operation. NOR gates can be combined to generate any
 other logical function. It shares this property with the NAND
 gate. NOR gates can be combined to generate any other logical
 function. Hence, NOR gate is called Universal logic Gate along
-with NAND gate.In this paper, we have carried out the modeling
+with NAND gate.In this we have carried out the modeling
 of NOR gate at 28 nm CMOS technology
 
 
 ![HA](https://user-images.githubusercontent.com/100190726/155269489-a46fd3d3-1d0f-40b4-bcae-6450b93dc745.JPG)
 
-Fig. 1: Block Diagram of Half Adder and Logic Diagram of Half Adder
+Fig. 1: Block Diagram of NOR gate and Logic Diagram of NOR gate
 
 ![HA_TT](https://user-images.githubusercontent.com/100190726/155269581-422270c2-d13a-41a4-bf47-061f11464790.JPG)
 
 
-Table 1: Truth Table of Half Adder. Procedure for Paper Submission
+Table 1: Truth Table of NOR gate. Procedure for Paper Submission
 ## Reference Circuit Diagram
-Complementary Metal Oxide Semiconductor (CMOS) logic[1] deploys symmetric number of both types of MOSFETs, i.e., pMOS and nMOS. This leads to better performance of any logic circuit since nMOS is strong ‘0’ device and pMOS is strong ‘1’device. Thus, CMOS provides complete ‘1’ and complete ‘0’ logics at the output without any distortion. Half Adder using CMOS modeled using 12 transistors as shown in Figure 3.
+Complementary Metal Oxide Semiconductor (CMOS) logic[1] deploys symmetric number of both types of MOSFETs, i.e., pMOS and nMOS. This leads to better performance of any logic circuit since nMOS is strong ‘0’ device and pMOS is strong ‘1’device. Thus, CMOS provides complete ‘1’ and complete ‘0’ logics at the output without any distortion. NOR gate using CMOS modeled using four  transistors as shown in Figure 3.
 
 
 ![HA_ckt](https://user-images.githubusercontent.com/100190726/155269685-35736a80-902c-4a0a-a1a4-cb42d4830b48.JPG)
 
  
-Figure 3. Half Adder Using CMOS Logic.
+Figure 3. NOR gate Using CMOS Logic.
 
 ## Reference Circuit Waveform
 
