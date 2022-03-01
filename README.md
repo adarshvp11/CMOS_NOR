@@ -27,11 +27,16 @@ with NAND gate.In this we have carried out the modeling
 of NOR gate at 28 nm CMOS technology
 
 
-![HA](https://user-images.githubusercontent.com/100190726/155269489-a46fd3d3-1d0f-40b4-bcae-6450b93dc745.JPG)
+
+
+
+![ss](https://user-images.githubusercontent.com/100693635/156202769-4d721926-b2d2-4b1a-a7a9-92afdaea4c26.PNG)
+
+
 
 Fig. 1: Block Diagram of NOR gate and Logic Diagram of NOR gate
 
-![HA_TT](https://user-images.githubusercontent.com/100190726/155269581-422270c2-d13a-41a4-bf47-061f11464790.JPG)
+![ss2](https://user-images.githubusercontent.com/100693635/156202795-d2979822-6327-497c-b632-8c850dab5d06.PNG)
 
 
 Table 1: Truth Table of NOR gate. Procedure for Paper Submission
@@ -39,14 +44,14 @@ Table 1: Truth Table of NOR gate. Procedure for Paper Submission
 Complementary Metal Oxide Semiconductor (CMOS) logic[1] deploys symmetric number of both types of MOSFETs, i.e., pMOS and nMOS. This leads to better performance of any logic circuit since nMOS is strong ‘0’ device and pMOS is strong ‘1’device. Thus, CMOS provides complete ‘1’ and complete ‘0’ logics at the output without any distortion. NOR gate using CMOS modeled using four  transistors as shown in Figure 3.
 
 
-![HA_ckt](https://user-images.githubusercontent.com/100190726/155269685-35736a80-902c-4a0a-a1a4-cb42d4830b48.JPG)
+![CamScanner 02-19-2022 15 21_1](https://user-images.githubusercontent.com/100693635/156201945-805124fd-0d43-47e1-9d56-374a7dfa1f35.jpg)
 
  
 Figure 3. NOR gate Using CMOS Logic.
 
 ## Reference Circuit Waveform
 
- ![image](https://user-images.githubusercontent.com/100190726/155500159-a895317c-c1b6-4a48-833c-3c5fcbabc9be.png)
+ ![CamScanner 02-19-2022 15 29_1](https://user-images.githubusercontent.com/100693635/156201974-a94b4bba-600d-4b75-96c6-539357b6dd13.jpg)
 
 
 
@@ -108,9 +113,9 @@ After creating and saving the schematic go to 'Tools' and open 'Primewave' to st
 
 Then go to 'Simulations -> Netlist and Run' to generate a netlist and run the simulation to get the below output.
 
-![ha_wave](https://user-images.githubusercontent.com/100190726/155284548-f95e65f7-0e13-40d9-ba06-64a3aa05d801.JPG)
+!![hackathon](https://user-images.githubusercontent.com/100693635/156202057-3d5e7c57-ebe3-42fb-b4ed-74fb58fb7ab2.PNG)
 
-Fig. 7: Half Adder Transient Analysis
+Fig. 7: NOR gate output simulation
 
 
 ## Netlist of the Circuit:
