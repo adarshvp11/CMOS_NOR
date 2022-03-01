@@ -124,7 +124,7 @@ Fig. 7: NOR gate output simulation
 
 
 ## Netlist of the Circuit:
-Refer to the netlist of the circuit here:[netlist.txt](https://github.com/swati-sgm/Half_Adder_analog_design/files/8129767/netlist.txt)
+Refer to the netlist of the circuit here:[netlist.txt](https://github.com/adarshvp11/CMOS_NOR/files/8163527/netlist.txt)
 
 
 
