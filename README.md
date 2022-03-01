@@ -1,5 +1,5 @@
-# Half_Adder_analog_design
-This repository presents the design of Half Adder implemented using Synopsis Custom Compiler on 28nm CMOS Technology.
+# CMOS_NOR
+This repository presents the design of NOR gate implemented using Synopsis Custom Compiler on 28nm CMOS Technology.
 
 ### Table of Contents
  - [Introduction](#introduction)
@@ -13,8 +13,18 @@ This repository presents the design of Half Adder implemented using Synopsis Cus
  - [References:](#references)
  
 ## Introduction
-Half adder is a digital combinational circuit that executes addition of two single bit binary numbers and generates two outputs i.e., a sum bit (S) and carry bit (C). If A and B are taken as primary input bits, then sum bit (S) is obtained by X-ORing of input bits A and B and the carry bit (C) is obtained by ANDing of input bits A and B. Block diagram, logic diagram and truth table of half adder are shown in Figure 1 and Table 1 respectively. The Boolean expression of half adder[2] is given by: 
-S= A⊕ B and C=A.B 
+The NOR gate is a digital logic gate that implements
+logical NOR. NOR is the result of the negation of the OR
+operator. If both the inputs to the gate are LOW (0), a HIGH
+output (1) is obained as result; if one or both input is HIGH (1),
+a LOW output (0) is obtained as result. It can also in some senses
+be seen as the inverse of an AND gate. NOR is a functionally
+complete operation. NOR gates can be combined to generate any
+other logical function. It shares this property with the NAND
+gate. NOR gates can be combined to generate any other logical
+function. Hence, NOR gate is called Universal logic Gate along
+with NAND gate.In this paper, we have carried out the modeling
+of NOR gate at 28 nm CMOS technology
 
 
 ![HA](https://user-images.githubusercontent.com/100190726/155269489-a46fd3d3-1d0f-40b4-bcae-6450b93dc745.JPG)
@@ -119,6 +129,10 @@ Swati Mavinkattimath, Assistant Professor, KLE Dr. M S Sheshgiri College of Engi
 - Chinmay panda, IIT Hyderabad
 - Sameer Durgoji, NIT Karnataka
 ## References:
-- Rituraj Yadav, Ashish Sura, Sunita Dahiya, “HALF ADDER DESIGN USING VARIOUS TECHNOLOGIES AND COMPARISON OF VARIOUS PARAMETER PERFORMANCE” International Journal of Engineering Applied Sciences and Technology, 2021 Vol. 6, Issue 2, ISSN No. 2455-2143, Pages 95-100 
-- Rajput, Anju & Dua, Tripti & Kumawat, Renu & Srinivasulu, Prof. Avireni. (2020). Half Adder Using Different Design Styles: A Review on Comparative Study. 7. 26-32.
-- Murugesan, Sivakumar & Sundaramurthy, Omkumar. (2017). Implementation of Area & Power Optimized VLSI Circuits Using Logic Techniques. IOSR Journal of VLSI and Signal Processing (IOSR-JVSP). 7. 15-23. 
+- Balraj Singh, Mukesh Kumar, and J. S. Ubhi, “Analysis of CMOS based
+NAND and NOR Gates at 45 nm Technology”, International Journal of
+Electronics, Electrical and Computational System , IJEECS ,ISSN 2348-
+117X,, Volume 6, Issue 4, April 2017
+- V. soni and nitin naiyar. Evaluation of logic families using nor and
+nand logic gates. https://studylib.net/doc/18649909/evaluation-oflogicfamilies-using-nor-and-nand-logic-gate.
+ 
