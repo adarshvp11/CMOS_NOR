@@ -112,7 +112,10 @@ Figure 3. NOR gate Using CMOS Logic.
  
  ### Simulations:
  ### Transient Analysis:
-After creating and saving the schematic go to 'Tools' and open 'Primewave' to start the simulation. In the Primewave select the 'model file' i.e the '28nm PDK's .lib file presentin the HSPICE folder.Then add the outputs which needs to be plotted by selecting the nets on the schematic.Then go to 'Simulations -> Netlist and Run' to generate a netlist and run the simulation to get the below output.
+After creating and saving the schematic go to 'Tools' and open 'Primewave' to start the simulation. In the Primewave select the 'model file' i.e the '28nm PDK's .lib file presentin the HSPICE folder.
+ After this select the 'tran' analysis in the analysis window and give the 'Start', 'Stop', and 'Step Size' parameters and save it. Then add the outputs which needs to be plotted by selecting the nets on the schematic.
+ 
+Then add the outputs which needs to be plotted by selecting the nets on the schematic.Then go to 'Simulations -> Netlist and Run' to generate a netlist and run the simulation to get the below output.
 
 !![hackathon](https://user-images.githubusercontent.com/100693635/156202057-3d5e7c57-ebe3-42fb-b4ed-74fb58fb7ab2.PNG)
 
