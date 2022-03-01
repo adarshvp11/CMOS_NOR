@@ -62,19 +62,19 @@ Figure 3. Half Adder Using CMOS Logic.
  
  ## Schematics and Simulations:
  ### Schematics:
- ### Half Adder
- Initially Schematic of the Half Adder cell was implemented and converted into a symbol so that it could be used directly as delay cell from the library.
+ ### CMOS NOR
+ Initially Schematic of the NOR gate cell was implemented and converted into a symbol so that it could be used directly as delay cell from the library.
  
  
  ![ha_sch](https://user-images.githubusercontent.com/100190726/155284404-ad60f01a-13b8-4640-8914-06020052f87e.JPG)
 
  
- Fig. 4: Half Adder Cell Schematic
+ Fig. 4: NOR gate Cell Schematic
  
  
  ![ha_sym](https://user-images.githubusercontent.com/100190726/155284499-95dbccd7-0036-4988-9244-3bf942ebfa5e.JPG)
 
- Fig. 5: Half Adder Cell Symbol
+ Fig. 5: NOR gate Cell Symbol
  
  ### Parameters set for Voltage Source for Input A
  
@@ -95,7 +95,7 @@ Figure 3. Half Adder Using CMOS Logic.
  
  ![ha_test](https://user-images.githubusercontent.com/100190726/155284515-8187e068-cbd4-4fc6-bf4c-4d0ab1ffc863.JPG)
 
- Fig. 6: Half Adder Test Circuit 
+ Fig. 6: NOR gate Test Circuit 
  
   ### Transient Settings
  
@@ -119,7 +119,7 @@ Refer to the netlist of the circuit here:[netlist.txt](https://github.com/swati-
 
 
 ## Author:
-Swati Mavinkattimath, Assistant Professor, KLE Dr. M S Sheshgiri College of Engineering and Technology Belagavi- 590008
+Adarsh V Parekkattil, MTECH 1st year, NIT Meghalaya
 
 ## Acknowledgements:
 - [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
@@ -127,7 +127,6 @@ Swati Mavinkattimath, Assistant Professor, KLE Dr. M S Sheshgiri College of Engi
 - [VLSI System Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
 - Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
 - Chinmay panda, IIT Hyderabad
-- Sameer Durgoji, NIT Karnataka
 ## References:
 - Balraj Singh, Mukesh Kumar, and J. S. Ubhi, “Analysis of CMOS based
 NAND and NOR Gates at 45 nm Technology”, International Journal of
